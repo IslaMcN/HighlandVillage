@@ -4,7 +4,7 @@
  - Hours need to be scalable?
     - One-click drop-down
  - Add employees and quotes w/ credentials*
- - ~~Speciality services with pricing*******
+ - ~~Speciality services with pricing*******~~
  - CTA*
  - Get rid of weather*****
  
