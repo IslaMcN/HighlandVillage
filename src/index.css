@@ -419,3 +419,10 @@ body{
 	width:100%;
 	margin: 0 auto;
 }
+#cf img {
+	position:absolute;
+	left:0;
+	-webkit-transition: opacity 1s ease-in-out;
+	-moz-transition: opactiy 1s ease-in-out;
+	-o-transition: opacity 1s ease-in-out;
+}
