@@ -407,3 +407,9 @@ table{
   [hidden] {
 	display: none;
   }
+
+body{
+	display: flex;
+	flex-wrap: wrap;
+	
+}
