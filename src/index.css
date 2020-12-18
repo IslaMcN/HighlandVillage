@@ -413,3 +413,9 @@ body{
 	flex-wrap: wrap;
 	
 }
+#cf {
+	position: relative;
+	height: 100%;
+	width:100%;
+	margin: 0 auto;
+}
