@@ -5,14 +5,9 @@
     - One-click drop-down
  - ~~Add employees and quotes w/ credentials*~~
  - ~~Speciality services with pricing*******~~
- - CTA*
+ - ~~CTA*~~
  - ~~Get rid of weather*****~~
  
 
 
 
-## Branch: Remove_Weather
-## Branch: Ads
-## Branch: Employees
-## Branch: CTA
-## Branch: Styling
