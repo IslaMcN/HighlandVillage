@@ -431,18 +431,41 @@ body{
   0%{
     opacity: 1;
   }
-  45%{
+  17%{
     opacity: 1;
   }
-  55%{opacity: 0;
+  92%{opacity: 0;
   }
-  
+  100%{
+    opacity: 1;
+  }
+
 }
 
-#cf img.top{
+#cf img:nth-of-type(1){
   animation-name: Fade;
   animation-timing-function: ease-in-out;
   animation-iteration-count: infinite;
-  animation-duration: 10s;
+
   animation-direction: alternate;
+}
+#cf img:nth-of-type(2){
+  animation-name: Fade;
+  animation-timing-function: ease-in-out;
+  animation-iteration-count: infinite;
+
+  animation-direction: alternate;
+  animation-delay: 6s;
+}
+
+#cf img:nth-of-type(3){
+  animation-delay: 4s;
+  animation-name: Fade;
+  animation-timing-function: ease-in-out;
+  animation-iteration-count: infinite;
+
+  animation-direction: alternate;
+}
+#cf img:nth-of-type(4){
+  animation-delay: 2s;
 }
