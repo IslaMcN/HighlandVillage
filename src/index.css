@@ -446,14 +446,14 @@ body{
   animation-name: Fade;
   animation-timing-function: ease-in-out;
   animation-iteration-count: infinite;
-
+  animation-duration: 5s;
   animation-direction: alternate;
 }
 #cf img:nth-of-type(2){
   animation-name: Fade;
   animation-timing-function: ease-in-out;
   animation-iteration-count: infinite;
-
+  animation-duration: 10s;
   animation-direction: alternate;
   animation-delay: 6s;
 }
@@ -463,9 +463,11 @@ body{
   animation-name: Fade;
   animation-timing-function: ease-in-out;
   animation-iteration-count: infinite;
-
+  animation-duration: 20s;
   animation-direction: alternate;
 }
 #cf img:nth-of-type(4){
+  animation-name: Fade;
   animation-delay: 2s;
+  animation-duration: 22s;
 }
